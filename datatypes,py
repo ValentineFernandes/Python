@@ -1,30 +1,30 @@
-First = "Hi"	#str	
-Second = 10	#int	
-Third = 10.5	#float	
-Fourth = 2j	#complex	
-Fifth = ["orange", "banana", "cherry"]	#list	
-Sixth = ("orange", "banana", "cherry")	#tuple	
-Seventh = range(6)	#range	
-Eighth = {"name" : "Joe", "age" : 56}	#dict	
-Ninth = {"orange", "banana", "cherry"}	#set	
-Tenth = frozenset({"orange", "banana", "cherry"})	#frozenset	
-Eleventh = True	#bool	
-Twelveth = b"Hi"	#bytes	
-Thirteenth = bytearray(5)	#bytearray	
-Fourteenth = memoryview(bytes(5))	#memoryview
+a = "Hi"	#str	
+b = 10	#int	
+c = 10.5	#float	
+d = 2j	#complex	
+e = ["orange", "banana", "cherry"]	#list	
+f = ("orange", "banana", "cherry")	#tuple	
+g = range(6)	#range	
+h = {"name" : "Joe", "age" : 56}	#dict	
+i = {"orange", "banana", "cherry"}	#set	
+j = frozenset({"orange", "banana", "cherry"})	#frozenset	
+k = True	#bool	
+l = b"Hi"	#bytes	
+m = bytearray(5)	#bytearray	
+n = memoryview(bytes(5))	#memoryview
 
-print(type(First))
-print(type(Second))
-print(type(Third))
-print(type(Fourth))
-print(type(Fifth))
-print(type(Sixth))
-print(type(Seventh))
-print(type(Eightth))
-print(type(Nineth))
-print(type(Tenth))
-print(type(Eleventh))
-print(type(Twelveth))
-print(type(Thirteenth))
-print(type(Fourteenth))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(g))
+print(type(h))
+print(type(i))
+print(type(j))
+print(type(k))
+print(type(l))
+print(type(m))
+print(type(n))
 
