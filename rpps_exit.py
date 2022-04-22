@@ -1,8 +1,8 @@
-"""Rock, Paper, Scissors, by Odysy Academy
+"""Rock, Paper, Scissors
 The classic hand game of luck.
 Tags: short, game"""
 import random, time, sys
-print('''Rock, Paper, Scissors, by Arsen, Odysy Academy - Rock beats scissors.
+print('''Rock, Paper, Scissors,
  - Paper beats rocks.
  - Scissors beats paper.
  ''')
