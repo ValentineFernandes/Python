@@ -1,5 +1,5 @@
 import time, sys
-print('''Rock, Paper, Scissors, by Arsen, Odysy Academy - Rock beats scissors.
+print('''Rock, Paper, Scissors
  - Paper beats rocks.
  - Scissors beats paper.
  ''')
