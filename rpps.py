@@ -1,4 +1,4 @@
-"""Rock, Paper, Scissors, by Odysy Academy
+"""Rock, Paper, Scissors
 The classic hand game of luck.
 Tags: short, game"""
 import random, time, sys
